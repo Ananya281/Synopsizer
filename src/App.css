@@ -7,6 +7,12 @@
   Note: The styles for this gradient grid background is heavily inspired by the creator of this amazing site (https://dub.sh) – all credits go to them! 
 */
 
+
+
+.loader-blue {
+  filter: invert(22%) sepia(57%) saturate(2633%) hue-rotate(183deg) brightness(93%) contrast(91%);
+}
+
 .main {
   width: 100vw;
   min-height: 100vh;
