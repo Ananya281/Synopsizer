@@ -11,7 +11,7 @@ const Hero = () => {
         <button
           type='button'
           onClick={() =>
-            window.open("", "_blank")
+            window.open("https://github.com/Ananya281/Synopsizer", "_blank")
           }
           className='black_btn'
         >
